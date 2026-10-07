@@ -15,4 +15,4 @@ int main()
     printf("%.1f %.1f\n", a + b, a - b);
 
     return 0;
-}
+}        
